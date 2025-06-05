@@ -1,0 +1,9 @@
+# Ignore environment files
+.env
+
+# Ignore IDE/editor folders
+.vscode/
+.idea/
+
+# Python virtual environment
+.venv/
